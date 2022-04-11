@@ -1,0 +1,25 @@
+{
+  "name": "Solidity token",
+  "logoURI": "https://github.com/1020274162/1020274162/blob/main/Logo.png",
+  "keywords": [
+      "Solidity token",
+      "STK",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x1ee2e5e5f9fb12a0381d4b94ea8c64c6e7ee8f1b",
+      "name": "Solidity token",
+      "symbol": "STK",
+      "decimals": 18,
+      "logoURI": "https://github.com/1020274162/1020274162/blob/main/Logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
